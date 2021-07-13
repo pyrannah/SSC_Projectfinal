@@ -1,0 +1,22 @@
+com/example/securingweb/config/MvcConfig.java
+ com.example.securingweb.config.MvcConfig
+com/example/securingweb/util/AjaxUtils.java
+ com.example.securingweb.util.AjaxUtils
+com/example/securingweb/auth/OurUserDetailsService.java
+ com.example.securingweb.auth.OurUserDetailsService
+com/example/securingweb/SimpleResponseDTO.java
+ com.example.securingweb.SimpleResponseDTO
+ com.example.securingweb.SimpleResponseDTO$SimpleResponseDTOBuilder
+com/example/securingweb/config/WebSecurityConfig.java
+ com.example.securingweb.config.WebSecurityConfig
+ com.example.securingweb.config.WebSecurityConfig$JsonHttp403ForbiddenEntryPoint
+com/example/securingweb/User.java
+ com.example.securingweb.User
+com/example/securingweb/SecuringWebApplication.java
+ com.example.securingweb.SecuringWebApplication
+com/example/securingweb/auth/AuthenticationController.java
+ com.example.securingweb.auth.AuthenticationController
+com/example/securingweb/InitApplicationRunner.java
+ com.example.securingweb.InitApplicationRunner
+com/example/securingweb/UserRepository.java
+ com.example.securingweb.UserRepository
